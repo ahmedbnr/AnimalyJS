@@ -1,0 +1,4 @@
+{
+  "database" : "mongodb+srv://animalyy:animalyy-cred@cluster0.7ogp4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "token_secret" : "encryption-animalyy"
+}
